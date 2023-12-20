@@ -1,1 +1,7 @@
+Microsoft Windows [Version 10.0.19045.3570]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\ATTT\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug>cmd /k 
+C:\Users\ATTT\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug>
+C:\Users\ATTT\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug>
+C:\Users\ATTT\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug>
